@@ -1,3 +1,6 @@
 pillow
 openai
 azure-ai-vision-imageanalysis
+spacy
+spacy-wordnet
+streamlit
